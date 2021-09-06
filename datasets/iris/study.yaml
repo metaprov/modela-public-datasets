@@ -1,4 +1,4 @@
-apiVersion: training.modeld.io/v1alpha1
+apiVersion: training.modela.ai/v1alpha1
 kind: Study
 metadata:
   labels:
@@ -16,7 +16,7 @@ spec:
     namespace: default-tenant
   location:
     bucketName: default-digitalocean-bucket
-    path: modeld/live/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/studies/test
+    path: modela/live/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/studies/test
   modelImagePushed: false
   modelPublished: false
   modelVersion: v0.0.1

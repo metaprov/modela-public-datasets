@@ -1,2 +1,2 @@
-# modeld-public-datasets
+# modela-public-datasets
 Public datasets for benchmark and user testing

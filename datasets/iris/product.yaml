@@ -1,4 +1,4 @@
-apiVersion: data.modeld.io/v1alpha1
+apiVersion: data.modela.ai/v1alpha1
 kind: DataProduct
 metadata:
   name: iris-product
@@ -7,14 +7,14 @@ spec:
   currentModelVersion: {}
   dataLocation:
     bucketName: default-digitalocean-bucket
-    path: modeld/live/dataproducts/iris
+    path: modela/live/dataproducts/iris
   defaultWorkloadClassName: model-workload-class
   gitLocation:
     branch: ""
     gitConnectionName: default-git-repository
     url: ""
   imageLocation:
-    name: modeld/iris-product
+    name: modela/iris-product
     registryConnectionName: default-dockerhub-connection
   labName: default-lab
   notifierName: ""
@@ -24,4 +24,4 @@ spec:
   task: binary-classification
   tenantRef:
     name: default-tenant
-    namespace: modeld-system
+    namespace: modela-system

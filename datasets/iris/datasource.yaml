@@ -1,4 +1,4 @@
-apiVersion: data.modeld.io/v1alpha1
+apiVersion: data.modela.ai/v1alpha1
 kind: DataSource
 metadata:
   name: iris2

@@ -1,4 +1,4 @@
-apiVersion: data.modeld.io/v1alpha1
+apiVersion: data.modela.ai/v1alpha1
 kind: Dataset
 metadata:
   name: iris
@@ -10,10 +10,10 @@ spec:
   labeled: true
   location:
     bucketName: default-digitalocean-bucket
-    path: modeld/live/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/datasets/iris/data/raw/iris.csv
+    path: modela/live/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/datasets/iris/data/raw/iris.csv
   origin:
     bucketName: default-digitalocean-bucket
-    path: modeld/depot/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/datasets/iris/data/raw/iris.csv
+    path: modela/depot/tenants/default-tenant/dataproducts/iris-product/versions/v0.0.1/datasets/iris/data/raw/iris.csv
   owner: admin
   report: true
   syntacticRows: 0
