@@ -1,6 +1,6 @@
 ### Dataset Name
 
-Cars
+Connect-4
 
 ### Dataset Description
 
@@ -17,12 +17,6 @@ Machine learning Repository
 
 ### Home Page
 https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
-
-
-
-
-
-
 
 
 

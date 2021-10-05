@@ -9,7 +9,7 @@ The aloi dataset is derived from the “Amsterdam Library of Object Images” co
 
 ### Dataset Task
 
-Classification (Imbalanced)
+Binary Classification (Imbalanced)
 
 ### Dataset source
 

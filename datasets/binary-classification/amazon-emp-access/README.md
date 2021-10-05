@@ -9,7 +9,7 @@ The data is used to create an algorithm capable of learning from this historical
 
 ### Dataset Task
 
-Classification
+Binary Classification
 
 ### Dataset source
 

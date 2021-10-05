@@ -1,6 +1,6 @@
 ### Dataset Name
 
-Credit
+German Credit
 
 ### Dataset Description
 

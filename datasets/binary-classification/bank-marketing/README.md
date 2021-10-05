@@ -10,7 +10,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 ### Dataset Task
 
-Classification (Imbalanced)
+Binary Classification (Imbalanced)
 
 ### Dataset source
 Author: Paulo Cortez, Sérgio Moro

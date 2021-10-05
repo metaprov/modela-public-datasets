@@ -8,7 +8,7 @@ Predict whether an adult income exceeds 50K
 
 ### Dataset Task
 
-Classification
+Binary Classification
 
 ### Dataset source
 
