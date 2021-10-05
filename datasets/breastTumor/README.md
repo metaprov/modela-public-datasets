@@ -4,7 +4,7 @@ BNG Breast Tumor
 
 ## Dataset Task
 
-Regression
+Classification
 
 ### Columns
 10
